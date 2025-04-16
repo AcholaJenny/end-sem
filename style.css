@@ -30,7 +30,7 @@ header h1 {
 }
 
 .faculty-card {
-  background-color: chocolate;
+  background-color: ghostwhite;
   border: 1px solid #ddd;
   border-radius: 8px;
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
@@ -54,7 +54,7 @@ header h1 {
 }
 
 .faculty-card a {
-  color: #0066cc;
+  color: chocolate;
   text-decoration: none;
 }
 
